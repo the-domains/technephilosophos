@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'In which the author does nothing noteworthy, except establish a presence and babble a bit to himself.'
-datePublished: '2016-02-10T17:23:45.091Z'
-dateModified: '2016-02-10T17:23:41.611Z'
+datePublished: '2016-02-10T17:24:02.265Z'
+dateModified: '2016-02-10T17:23:58.852Z'
 title: First Post.
 author: []
 sourcePath: _posts/2016-02-09-first-post.md
