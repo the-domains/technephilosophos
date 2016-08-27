@@ -1,20 +1,4 @@
-name: technephilosophos
-favicon: null
-layout_spectrum: 0.2612345889210701
 typography_spectrum: 0.6172587329056114
-title: 'Craft and Wisdom, in some proportion or other.'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-73644101-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -26,4 +10,21 @@ color:
   lightness: 0.6875
   saturation: 0.3028996589127928
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2612345889210701
+analytics:
+  google: UA-73644101-1
+  facebook: null
+  twitter: null
+name: technephilosophos
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Craft and Wisdom, in some proportion or other.'
+description: EN VI - ous?
 purpose: []
