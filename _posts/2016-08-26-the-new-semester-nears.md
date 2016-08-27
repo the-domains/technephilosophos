@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The new semester nears...
-datePublished: '2016-08-26T14:38:46.741Z'
-dateModified: '2016-08-26T14:38:29.923Z'
+datePublished: '2016-08-26T14:40:37.478Z'
+dateModified: '2016-08-26T14:38:52.472Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-26-the-new-semester-nears.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-26-the-new-semester-nears.md
 url: the-new-semester-nears/index.html
 _type: Article
 
